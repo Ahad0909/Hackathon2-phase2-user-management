@@ -1,0 +1,10 @@
+# Pyhton / FastAPI
+__pyachache__/
+*.pyc
+*.db
+venv/
+
+# Node / Next.js
+node_modules/
+.next/
+.env.local
