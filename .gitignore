@@ -8,3 +8,6 @@ venv/
 node_modules/
 .next/
 .env.local
+
+frontend/node_modules/
+frontend/.next/
